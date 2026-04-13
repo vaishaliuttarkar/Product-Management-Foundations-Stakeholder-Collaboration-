@@ -4,7 +4,11 @@ To understand and apply key product management concepts for effective stakeholde
 
 # Key Deliverables:
 Elevator Pitch Development
+
 SWOT Analysis
+
 Porter’s Five Forces Analysis
+
 Product Manager Checklist
+
 Public Relations (PR) Planning
